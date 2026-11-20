@@ -1,0 +1,6 @@
+{
+  "name": "API SENTINEL",
+  "description": "Detect the Drift. Protect the Trust. AI-assisted third-party API permission-drift monitoring and business fraud investigation platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
